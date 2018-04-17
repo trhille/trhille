@@ -3,3 +3,4 @@ Conversion functions needed:
 - Dollars to cents
 - Gallons to liters
 - Feet to inches
+- Degrees to radians
